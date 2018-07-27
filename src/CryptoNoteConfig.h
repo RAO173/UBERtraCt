@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "UBERtraCt";
-const char GENESIS_COINBASE_TX_HEX[] = "013c01ff0001c08f8af8ae5f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210110e6209a5f807fa86183010df604ad41e0438ce414fba15357f807f8d0d00d7c";
+const char GENESIS_COINBASE_TX_HEX[] = "013c01ff0001c08f8af8ae5f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121014f0fb981ae0c661e8b85a090a946f5ce2692ac27f8ab7ca4080ca7f369b2fbcc";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
